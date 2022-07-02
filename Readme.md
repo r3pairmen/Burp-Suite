@@ -35,3 +35,8 @@
 
 	--> Windows 10 :-: Installing Burp Suite Professional in Windows Machine for Free
 [![Installing Burp Suite Professional in Windows Machine for Free](https://img.youtube.com/vi/avWQzclViJU/0.jpg)](https://www.youtube.com/watch?v=avWQzclViJU)
+
+
+	
+	--> Introduction to Burp Suite Professionaal
+[![Introduction to Burp Suite Professional -- Beginner to Intermediate](https://img.youtube.com/vi/L5euJM2Hxrg/0.jpg)](https://www.youtube.com/watch?v=L5euJM2Hxrg)
