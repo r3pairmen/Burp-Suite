@@ -1,4 +1,4 @@
-##################################** Prequisites **#############################################
+############################** Prequisites **#######################################
 	**Download .jar file for Burp Suite Pro from**
 		--> https://portswigger.net/burp/releases/download?product=pro&version=&type=Jar
 	**Download Burp Loader files. Then Follow Below Steps for Activation**
@@ -8,7 +8,7 @@
 		**For JDK**  --> https://www.oracle.com/in/java/technologies/javase-jdk15-downloads.html
 
 
-################################** Execution and Activation **################################
+##########################** Execution and Activation **##########################
 	**1. Place all files in 1 folder**
 		For Example lets take as --> C:\Users\Siddharth\Downloads\burp-suite\
 	----------------------------------------------
