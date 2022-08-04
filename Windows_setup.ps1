@@ -69,8 +69,8 @@ add-content Burp-Suite-Pro.vbs "Set WshShell = Nothing"
 echo "`nBurp-Suite-Pro.vbs file is created."
 
 # Remove Additional files
-#rm Kali_Linux_Setup.sh
-#del -Recurse -Force .\.github\
+rm Kali_Linux_Setup.sh
+del -Recurse -Force .\.github\
 
 
 # Lets Activate Burp Suite Professional with keygenerator and Keyloader
