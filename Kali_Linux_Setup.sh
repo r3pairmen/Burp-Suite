@@ -12,8 +12,8 @@ echo "
 
 if [[ $EUID -eq 0 ]]; then
     # Download Burp Suite Profesional Latet Version
-    echo 'Downloading Burp Suite Professional ....'
-    Link="https://portswigger-cdn.net/burp/releases/download?product=pro&version=&type=jar"
+    echo 'Downloading Burp Suite Professional v2022.8.2 ....'
+    Link="https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.2&type=jar"
     wget "$Link" -O Burp_Suite_Pro.jar --quiet --show-progress
     sleep 2
 
@@ -33,3 +33,7 @@ else
     exit
 fi
 
+# Lets Download the latest Burp Suite Professional jar File
+echo "`n`t 1. Please download latest Burp Suite Professional Jar file from :-:"
+echo "`n`t https://portswigger.net/burp/releases/startdownload?product=pro&version=&type=Jar"
+echo "`n`t 2. Replace the existing Burp-Suite-Pro.jar file with downloaded jar file. `n`t Keep previous file name"
