@@ -27,6 +27,10 @@
 	--> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
 
 -----------------------------------------------------------------------------------------------------------------
+# Updating Burp Suite Professional
+	--> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar file. 
+
+-----------------------------------------------------------------------------------------------------------------
 # Videos For Reference 
 	--> Kali Linux :-: Installing Burp Suite Professional in Kali Linux for Free
 [![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/Gex6EQ4AKTA/0.jpg)](https://www.youtube.com/watch?v=Gex6EQ4AKTA)
